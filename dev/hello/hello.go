@@ -15,6 +15,7 @@ func NewTest(v int) *test {
 		ok1: v * v,
 	}
 }
+// Adding a comment to see this in a new commit.
 func greetings(name string) {
 	fmt.Printf("Hi there!! %s", name)
 }
